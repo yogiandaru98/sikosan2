@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SIKOSAN
 
 ## TASK WEB LANJUT
@@ -35,3 +36,7 @@ Anggota Kelompok
 ## ERD
 
 ![image](https://user-images.githubusercontent.com/83405871/193564475-ad73ef9b-3e72-4f1a-ac1d-19e29ad84c87.png)
+=======
+# sikosan2
+web-based applications for boarding-lodging search
+>>>>>>> 549bec0f4c313de4c20f59bd92b1d00e34a3cc91

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #-------------------------
 # Operating Specific Junk Files
 #-------------------------
@@ -67,11 +68,21 @@ php_errors.log
 #-------------------------
 # User Guide Temp Files
 #-------------------------
+=======
+*/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+
+>>>>>>> 549bec0f4c313de4c20f59bd92b1d00e34a3cc91
 user_guide_src/build/*
 user_guide_src/cilexer/build/*
 user_guide_src/cilexer/dist/*
 user_guide_src/cilexer/pycilexer.egg-info/*
 
+<<<<<<< HEAD
 #-------------------------
 # Test Files
 #-------------------------
@@ -125,3 +136,10 @@ nb-configuration.xml
 /phpunit*.xml
 /.phpunit.*.cache
 
+=======
+#codeigniter 3
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+/vendor/
+>>>>>>> 549bec0f4c313de4c20f59bd92b1d00e34a3cc91
