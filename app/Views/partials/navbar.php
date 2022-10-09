@@ -59,7 +59,7 @@
                                 <img src="/assets/img/owner-login.png" class="" style="width: 90px;">
                             </div>
                             <div class="col-8 m-auto">
-                                <p class="card-text fw-bold">Pencari Kos</p>
+                                <p class="card-text fw-bold">Pemilik Kos</p>
                             </div>
                         </div>
                     </div>
