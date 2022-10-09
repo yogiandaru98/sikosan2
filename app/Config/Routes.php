@@ -35,7 +35,16 @@ $routes->set404Override();
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
+//routing halaman home
 $routes->get('/', 'Home::index');
+$routes->get('/about', 'Home::about');
+$routes->get('/pusatBantuan', 'Home::pusatBantuan');
+$routes->get('/terms', 'Home::terms');
+
+//routing untuk halaman login
+$routes->get('/customer', 'Home::customer');
+$routes->get('/owner', 'Home::owner');
+
 
 /*
  * --------------------------------------------------------------------
