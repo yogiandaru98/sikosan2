@@ -6,7 +6,7 @@
 
     <div class="col-lg-4 ms-3">
         <div class="col">
-            <a href="#" class="rounded-circle">
+            <a href="<?= base_url(); ?>" class="rounded-circle">
                 <div class="container">
                     <div class="row">
                         <div class="col">
@@ -31,4 +31,4 @@
 
     </div>
 </div>
-    <?= $this->endSection(); ?>
+<?= $this->endSection(); ?>
